@@ -1,8 +1,8 @@
 // класс для тестирования
 public class SimpleDotComTestDrive {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         // экземпляр класса SimpleDotCom
-        SimpleDotCom dot = new SimpleDotCom();
+        DotCom dot = new DotCom();
 
         // массив для местоположения сайта, 3 последовательных числа из 7
         int[] location = {2,3,4};
@@ -25,6 +25,6 @@ public class SimpleDotComTestDrive {
         System.out.println(testResult);
 
 
-    }
+    }*/
 
 }
